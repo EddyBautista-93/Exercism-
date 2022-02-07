@@ -14,7 +14,7 @@ Once you get the first test passing, remove the `Skip` property from the next te
 
 ## Submitting your solution
 
-You can submit your solution using the `exercism submit Pangram.cs` command.
+You can submit your solution using the `exercism submit LuciansLusciousLasagna.cs` command.
 This command will upload your solution to the Exercism website and print the solution page's URL.
 
 It's possible to submit an incomplete solution which allows you to:
@@ -27,4 +27,13 @@ It's possible to submit an incomplete solution which allows you to:
 If you'd like help solving the exercise, check the following pages:
 
 - The [C# track's documentation](https://exercism.org/docs/tracks/csharp)
-- [Exercism's support channel on gitter](https://gitter.im/exercism/support) The [Frequently Asked Questions](https://exercism.org/docs/using/faqs) Should those resources not suffice, you could submit your (incomplete) solution to request mentoring. To get help if you're having trouble, you can use one of the following resources: [Gitter](https://gitter.im/exercism/xcsharp) is Exercism C# track's Gitter room; go here to get support and ask questions related to the C# track. [/r/csharp](https://www.reddit.com/r/csharp) is the C# subreddit. [StackOverflow](http://stackoverflow.com/questions/tagged/c%11) can be used to search for your problem and see if it has been answered already. You can also ask and answer questions.
+- [Exercism's support channel on gitter](https://gitter.im/exercism/support)
+- The [Frequently Asked Questions](https://exercism.org/docs/using/faqs)
+
+Should those resources not suffice, you could submit your (incomplete) solution to request mentoring.
+
+To get help if you're having trouble, you can use one of the following resources:
+
+- [Gitter](https://gitter.im/exercism/xcsharp) is Exercism C# track's Gitter room; go here to get support and ask questions related to the C# track.
+- [/r/csharp](https://www.reddit.com/r/csharp) is the C# subreddit.
+- [StackOverflow](http://stackoverflow.com/questions/tagged/c%23) can be used to search for your problem and see if it has been answered already. You can also ask and answer questions.

@@ -1,9 +1,16 @@
-﻿using System;
+﻿using System.Linq;
+using System;
 
 public static class Pangram
 {
     public static bool IsPangram(string input)
-    {
-        throw new NotImplementedException();
+    { 
+        /* 
+        - Notes to self-
+        Where() = 
+        
+        
+        */
+        return input.ToLower().Where(ch => Char.IsLetter(ch)).GroupBy(ch => ch).Count() == 26;
     }
 }
